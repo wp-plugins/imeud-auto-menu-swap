@@ -1,5 +1,5 @@
 === iMeud Auto-menu swap ===
-Contributors: Main53 Solutions
+Contributors: Kittichai
 Donate link: http://main53.com
 Tags: imeud, scroll top, top, up, scroll to top, scroll up, wordpress scroll up, back to top, link to top, navigation, scroll, scroll back to top, wordpress
 Requires at least: 4.1 (not lower test).
@@ -12,7 +12,7 @@ Just scrolling menu is auto-swap to top and bottom.
 
 == Description ==
 
-Just scrolling menu is auto-swap to top and bottom. * Effective with Theme with <nav>…</nav>, <footer>…</footer>
+Just scrolling menu is auto-swap to top and bottom. * Effective with Theme with nav…, footer…
 
 Usage
 
